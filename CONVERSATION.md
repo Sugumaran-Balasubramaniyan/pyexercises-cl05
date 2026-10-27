@@ -64,3 +64,23 @@ Refused, off topic.
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-27 14:55, in .
+
+**Me:** what is a for loop
+
+**Tutor:**
+
+A for loop runs a block of code once for every item in a sequence (list, tuple, string, etc.).
+
+```python
+# Loop over a list of numbers
+numbers = [2, 4, 6, 8]
+
+for value in numbers:
+    # TODO: print each value squared
+    pass
+```
+
+What built-in function gives you the length of the list inside the loop?
