@@ -55,3 +55,12 @@ Which built-in function gives the length of the list `items`?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-27 14:36, in .
+
+**Me:** how to add two strings in python
+
+**Tutor:**
+
+Refused, off topic.
