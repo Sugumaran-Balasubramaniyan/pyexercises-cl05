@@ -84,3 +84,43 @@ for value in numbers:
 ```
 
 What built-in function gives you the length of the list inside the loop?
+
+---
+## 2026-10-27 15:17, in .
+
+**Me:** what is a for loop
+
+**Tutor:**
+
+A for loop runs a block of code once for every item in a sequence.
+
+```python
+# Loop over a list of toy products
+products = ["alpha", "beta", "gamma"]
+
+for item in products:
+    # TODO: print the name of each product
+```
+
+What does the variable `item` hold during the first iteration?
+
+---
+## 2026-10-27 15:20, in .
+
+**Me:** How to add two numbers in python
+
+**Tutor:**
+
+Adding two numbers in Python uses the built-in arithmetic operator `+`.
+
+```python
+def add_two_numbers(a, b):
+    # TODO: return the sum of a and b
+    pass
+
+# Example usage:
+result = add_two_numbers(3, 5)
+print(result)  # Should print 8
+```
+
+What is the return value of `add_two_numbers(7, 2)`?
